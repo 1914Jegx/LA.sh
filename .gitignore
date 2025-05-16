@@ -1,0 +1,8 @@
+# GIT
+.git/
+
+# DOCS
+docs/build/
+
+# OTHERS
+.log
