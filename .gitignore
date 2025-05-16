@@ -4,5 +4,8 @@
 # DOCS
 docs/build/
 
+# CACHE
+.ruff_cache/
+
 # OTHERS
 .log
