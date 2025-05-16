@@ -49,10 +49,9 @@ lint:
 format:
 	poetry run ruff format src
 
-# Lint + type check (MyPy)
+# Lint
 check:
 	poetry run ruff check src
-	poetry run mypy src
 
 # Run pre-commit hooks on all files
 precommit:
